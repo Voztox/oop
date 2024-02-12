@@ -1,0 +1,5 @@
+Amount, Code, Title, Price,
+2,Product{code=1, title='Bread', price=1.56}
+1,Product{code=4, title='Napkins', price=1.56}
+2,Product{code=3, title='Chocolate', price=2.01}
+1,Product{code=2, title='Butter', price=3.15}
